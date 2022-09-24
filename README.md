@@ -7,10 +7,10 @@
 
 I am from china and I am currently a first-year Ph.D student in Computer Science and Engineering Department, Washington University in St.Louis.
 ## 👯 Research
+* Graph Nerual Network
 * Meachin learning
 * Deep learning
 * Data Mining
-* Graph Nerual Network
 * Healthcare and bioinformatics
 * Natural Language Processing
 ## ⚡ Coding
