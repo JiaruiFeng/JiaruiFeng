@@ -24,6 +24,6 @@ I am from China and I am currently a second-year Ph.D student in Computer Scienc
 - Crazy computer gamer: Overwatch,APEX, World of warcraft, PUBG, CS:GO...
 - 📫 My personal website: [Jiarui Feng](https://jiaruifeng.github.io).
 
-![Jiarui's github stats](https://github-readme-stats.vercel.app/api?username=JiaruiFeng&hide=["issues"]&show_icons=true)
+![Jiarui's github stats](https://github-readme-stats.vercel.app/api?username=JiaruiFeng&hide=["issues"]&show_icons=true&theme=vue)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
